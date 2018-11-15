@@ -1,0 +1,10 @@
+{
+  "name": "webpack-plugin-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "xenonfash",
+  "license": "MIT",
+  "dependencies": {
+    "tapable": "^1.1.0"
+  }
+}
